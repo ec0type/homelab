@@ -15,6 +15,6 @@ To build the custom image you have to install [PowerCLI](https://my.vmware.com/d
 .\ESXi-Customizer-PS-v2.6.0.ps1 -v65 -vft -load sata-xahci,net-e1000e,fw-ntpd,vmware-esx-dvfilter-maclearn
 ```
 Parameter:
-> -v65 means we will use Version 6.5
-> -vft will use the online depot from vfront
-> -load will download and add the following ESXi packages
+- v65 means we will use Version 6.5
+- vft will use the online depot from vfront
+- load will download and add the following ESXi packages
