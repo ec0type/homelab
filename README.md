@@ -1,5 +1,5 @@
 # homelab
-##Virtualization
+## Virtualization
 I am using an customized version of VMware vSphere Hypervisor 6.7 for the following hardware:
 
 - Intel i5 6500
